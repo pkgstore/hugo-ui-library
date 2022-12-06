@@ -1,4 +1,4 @@
-# Information
+# Hugo UI Base
 
 Base theme for Hugo.
 
