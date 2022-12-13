@@ -1,5 +1,3 @@
-import Headroom from './vendor/headroom.min';
-
 export function init() {
   toggle('.navbar');
 }

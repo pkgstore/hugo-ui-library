@@ -7,11 +7,11 @@
 }
 
 @mixin font-mono() {
-  font-family: 'Fira Code', monospace;
+  font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
 }
 
 @mixin font-serif() {
-  font-family: 'PT Serif', 'Georgia', 'Times', serif;
+  font-family: 'PT Serif', 'Times New Roman', 'Georgia', 'Times', serif;
 }
 
 @mixin font-brand() {

@@ -1,14 +1,14 @@
-import * as tabs from './module/tabs.min';
-import * as date from './module/date.min';
-import * as select from './module/select.min';
-import * as share from './module/share.min';
-import * as qrcode from './module/qrcode.min';
-import * as navbar from './module/navbar.min';
-import * as site_resize from './module/site_resize.min';
-import * as hljs from './module/hljs.min';
+import * as tabs from './module/tabs';
+import * as date from './module/date';
+import * as select from './module/select';
+import * as share from './module/share';
+import * as qrcode from './module/qrcode';
+import * as navbar from './module/navbar';
+import * as site_resize from './module/site_resize';
+import * as hljs from './module/hljs';
 
-import * as konami from './module/konami.min';
-import * as console from './module/console.min';
+import * as konami from './module/konami';
+import * as console from './module/console';
 
 export function init() {
   tabs.init();
