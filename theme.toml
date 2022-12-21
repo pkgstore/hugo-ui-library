@@ -1,6 +1,6 @@
-name = "UI Base"
+name = "UI Library"
 license = "MIT"
-licenselink = "https://github.com/pkgstore/hugo-ui-base/blob/main/LICENSE"
+licenselink = "https://github.com/pkgstore/hugo-ui-library/blob/main/LICENSE"
 description = "WebSite User Interface"
 homepage = "https://v77.dev"
 tags = ["website", "responsive", "multilingual", "mobile"]
