@@ -1,3 +1,3 @@
-module github.com/pkgstore/hugo-ui-library
+module github.com/site-0003/ui-library
 
 go 1.15
