@@ -1,11 +1,11 @@
 # Hugo UI Library
 
-Base theme for Hugo.
+**UI Library** theme for Hugo.
 
 ## Install
 
 ```
-git submodule add https://github.com/pkgstore/hugo-ui-library.git themes/ui-library
+git submodule add 'https://github.com/site-0003/ui-library.git' 'themes/ui-library'
 ```
 
 ## Update
@@ -17,7 +17,7 @@ git submodule update --recursive --remote --merge
 ## Uninstall
 
 ```
-git submodule deinit -f themes/ui-library; git rm -r --cached themes/ui-library; rm -rf .git/modules/themes/ui-library; rm -rf themes/ui-library
+git submodule deinit -f 'themes/ui-library'; git rm -r --cached 'themes/ui-library'; rm -rf '.git/modules/themes/ui-library'; rm -rf 'themes/ui-library'
 ```
 
 ## Features / Особенности
