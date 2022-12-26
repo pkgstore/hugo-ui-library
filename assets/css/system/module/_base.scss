@@ -1,13 +1,10 @@
-$color-00: #ffffff;
-$color-01: #f8f9fa;
-
 html {
   scroll-padding-top: 4rem;
 }
 
 body {
   @include font-base();
-  padding-top: 57px;
+  padding-top: 4rem;
 
   a {
     text-decoration: none;
@@ -62,24 +59,6 @@ body {
       &-brand {
         @include font-brand();
       }
-    }
-  }
-}
-
-body {
-  > footer {
-    > .section {
-      &:nth-child(even) {
-        background-color: $color-01;
-      }
-
-      &:nth-child(odd) {
-        background-color: $color-01;
-      }
-    }
-
-    .fa-heart {
-      color: #fe6e3a;
     }
   }
 }
